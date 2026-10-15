@@ -1,8 +1,8 @@
 # Quiet Keys · 电子解压键盘
 
-[打开网页版（私有预览）](https://quiet-keys-studio.carlgustav.chatgpt.site)
+[点击体验 Quiet Keys · 电子解压键盘](https://jdb156158.github.io/Stress-relief-keyboard/)
 
-[![游戏快照](docs/preview.png)](https://quiet-keys-studio.carlgustav.chatgpt.site)
+[![Quiet Keys 游戏快照](docs/preview.png)](https://jdb156158.github.io/Stress-relief-keyboard/)
 
 根据参考视频复刻的可交互网页版：九宫格立体键盘、16 款材质、独立按键回弹，以及不同材质的敲击声音。
 
